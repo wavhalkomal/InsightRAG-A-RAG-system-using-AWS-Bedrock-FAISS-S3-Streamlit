@@ -1,4 +1,4 @@
-# 🚀 InsightRAG – End-to-End RAG System with AWS Bedrock
+# InsightRAG – RAG System with AWS Bedrock
 
 ## 📌 Overview
 InsightRAG is a full-stack Retrieval-Augmented Generation (RAG) system that enables intelligent querying of PDF documents using AWS Bedrock, FAISS, and LLMs.
