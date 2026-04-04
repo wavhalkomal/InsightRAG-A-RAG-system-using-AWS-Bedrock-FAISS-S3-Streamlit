@@ -45,9 +45,7 @@ This project is divided into two main components:
 │   ├── requirements.txt
 │   ├── Dockerfile
 │
-├── InsightRAG_README.md
-├── PDF_Chat_AWS_RAG_System_Design.pptx
-├── RAG System with AWS.html
+├── README.md
 ```
 
 ---
