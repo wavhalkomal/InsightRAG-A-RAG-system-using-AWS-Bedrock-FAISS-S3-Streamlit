@@ -1,0 +1,13 @@
+name: insightrag
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - boto3
+    - faiss-cpu  # or faiss-gpu if needed
+    - streamlit
+    - langchain
+    # Add other dependencies your project needs
